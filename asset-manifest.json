@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/caspel/static/css/main.6f0f15a2.css",
+    "main.js": "/caspel/static/js/main.c9b4c969.js",
+    "index.html": "/caspel/index.html",
+    "main.6f0f15a2.css.map": "/caspel/static/css/main.6f0f15a2.css.map",
+    "main.c9b4c969.js.map": "/caspel/static/js/main.c9b4c969.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0f15a2.css",
+    "static/js/main.c9b4c969.js"
+  ]
+}
