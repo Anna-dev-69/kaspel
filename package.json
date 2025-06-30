@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
-    "@types/antd": "^0.12.32"
+    "@types/antd": "^0.12.32",
+    "gh-pages": "^6.3.0"
   }
 }
