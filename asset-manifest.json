@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/caspel/static/css/main.6f0f15a2.css",
-    "main.js": "/caspel/static/js/main.c9b4c969.js",
-    "index.html": "/caspel/index.html",
-    "main.6f0f15a2.css.map": "/caspel/static/css/main.6f0f15a2.css.map",
-    "main.c9b4c969.js.map": "/caspel/static/js/main.c9b4c969.js.map"
+    "main.css": "/kaspel/static/css/main.6f0f15a2.css",
+    "main.js": "/kaspel/static/js/main.c9b4c969.js",
+    "index.html": "/kaspel/index.html",
+    "main.6f0f15a2.css.map": "/kaspel/static/css/main.6f0f15a2.css.map",
+    "main.c9b4c969.js.map": "/kaspel/static/js/main.c9b4c969.js.map"
   },
   "entrypoints": [
     "static/css/main.6f0f15a2.css",
